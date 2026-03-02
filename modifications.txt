@@ -8,3 +8,14 @@ git commit -m "test:"
 2ème étape réalisé : 
 
 git add -A
+git commit -m "chore:"
+
+3ème étape réalisé : 
+
+git add -A
+git commit -m "fix"
+
+4ème étape réalisé : 
+
+git add -A
+git commit -m "refactor:"
